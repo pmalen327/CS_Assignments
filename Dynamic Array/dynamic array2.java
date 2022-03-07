@@ -2,9 +2,7 @@ package a6;
 
 /**
  * A DynamicArray2 behaves like an array of strings, except that it can grow and
- * shrink. It is indexed beginning with zero. When a DynamicArray2 is created,
- * it is empty. Methods are provided to report on the size, add, get, set, and
- * remove elements.
+ * shrink. It is indexed beginning with zero.
  * 
  * @author Preston Malen
  *
